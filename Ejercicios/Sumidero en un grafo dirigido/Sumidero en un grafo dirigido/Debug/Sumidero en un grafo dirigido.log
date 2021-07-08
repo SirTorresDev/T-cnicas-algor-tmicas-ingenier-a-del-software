@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Sumidero en un grafo dirigido\Sumidero en un grafo dirigido\Source.cpp(18,13): error C2664: 'std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>::vector(std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>> &&,const _Alloc &) noexcept(<expr>)': el argumento 2 no puede convertirse de 'int' a 'const _Alloc &'
+          with
+          [
+              _Alloc=std::allocator<std::vector<bool,std::allocator<bool>>>
+          ]
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Sumidero en un grafo dirigido\Sumidero en un grafo dirigido\Source.cpp(18,13): message : Razón: no se puede realizar la conversión de 'int' a 'const _Alloc'
+          with
+          [
+              _Alloc=std::allocator<std::vector<bool,std::allocator<bool>>>
+          ]
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Sumidero en un grafo dirigido\Sumidero en un grafo dirigido\Source.cpp(18,13): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(470,5): message : vea la declaración de 'std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>::vector'
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Sumidero en un grafo dirigido\Sumidero en un grafo dirigido\Source.cpp(29,29): error C2065: 'grafo': identificador no declarado
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Sumidero en un grafo dirigido\Sumidero en un grafo dirigido\Source.cpp(45,40): error C2676: '+=' binario: '_Ty' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+          with
+          [
+              _Ty=std::vector<bool,std::allocator<bool>>
+          ]

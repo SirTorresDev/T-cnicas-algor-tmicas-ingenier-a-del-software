@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\La maquina calculadora\La maquina calculadora\Source.cpp(33): warning C4715: 'adyacente': no todas las rutas de acceso de control devuelven un valor
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\La maquina calculadora\La maquina calculadora\Source.cpp(54): warning C4715: 'bfs': no todas las rutas de acceso de control devuelven un valor
+  La maquina calculadora.vcxproj -> C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\La maquina calculadora\Debug\La maquina calculadora.exe

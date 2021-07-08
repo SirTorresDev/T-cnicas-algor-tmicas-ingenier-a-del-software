@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Recorriendo el Archipielago en Bicicleta\Recorriendo el Archipielago en Bicicleta\PriorityQueue.h(39,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Recorriendo el Archipielago en Bicicleta\Recorriendo el Archipielago en Bicicleta\PriorityQueue.h(37): message : al compilar la función del miembro clase plantilla "PriorityQueue<Arista<Valor>,std::less<T>>::PriorityQueue(const std::vector<Arista<Valor>,std::allocator<Arista<Valor>>> &,Comparator)"
+          with
+          [
+              Valor=int,
+              T=Arista<int>,
+              Comparator=std::less<Arista<int>>
+          ]
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Recorriendo el Archipielago en Bicicleta\Recorriendo el Archipielago en Bicicleta\Source.cpp(28): message : Vea la referencia a la creación de una instancia de la función plantilla "PriorityQueue<Arista<Valor>,std::less<T>>::PriorityQueue(const std::vector<Arista<Valor>,std::allocator<Arista<Valor>>> &,Comparator)" que se está compilando
+          with
+          [
+              Valor=int,
+              T=Arista<int>,
+              Comparator=std::less<Arista<int>>
+          ]
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Recorriendo el Archipielago en Bicicleta\Recorriendo el Archipielago en Bicicleta\Source.cpp(28): message : Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<Arista<Valor>,std::less<T>>" que se está compilando
+          with
+          [
+              Valor=int,
+              T=Arista<int>
+          ]
+  Recorriendo el Archipielago en Bicicleta.vcxproj -> C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Recorriendo el Archipielago en Bicicleta\Debug\Recorriendo el Archipielago en Bicicleta.exe

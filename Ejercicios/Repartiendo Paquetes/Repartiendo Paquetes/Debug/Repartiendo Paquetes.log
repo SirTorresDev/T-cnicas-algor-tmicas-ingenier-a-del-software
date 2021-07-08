@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Repartiendo Paquetes\Repartiendo Paquetes\Source.cpp(15,28): warning C4305: 'inicializando': truncamiento de '__int64' a 'int'
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Repartiendo Paquetes\Repartiendo Paquetes\Source.cpp(15,17): warning C4309: 'inicializando': truncamiento de valor constante
+  Repartiendo Paquetes.vcxproj -> C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Repartiendo Paquetes\Debug\Repartiendo Paquetes.exe

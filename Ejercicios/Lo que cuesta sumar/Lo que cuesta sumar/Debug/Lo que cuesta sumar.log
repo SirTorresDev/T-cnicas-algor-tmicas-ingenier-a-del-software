@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Archivos de Codigo\Workspace\TAIS\Lo que cuesta sumar\Lo que cuesta sumar\Source.cpp(18,25): warning C4244: '=': conversión de 'const T' a 'long'; posible pérdida de datos
+          with
+          [
+              T=__int64
+          ]
+C:\Archivos de Codigo\Workspace\TAIS\Lo que cuesta sumar\Lo que cuesta sumar\Source.cpp(20,25): warning C4244: '=': conversión de 'const T' a 'long'; posible pérdida de datos
+          with
+          [
+              T=__int64
+          ]
+  Lo que cuesta sumar.vcxproj -> C:\Archivos de Codigo\Workspace\TAIS\Lo que cuesta sumar\Debug\Lo que cuesta sumar.exe

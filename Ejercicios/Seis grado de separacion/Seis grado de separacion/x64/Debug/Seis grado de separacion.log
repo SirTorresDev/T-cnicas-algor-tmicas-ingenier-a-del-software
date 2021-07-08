@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Seis grado de separacion\Seis grado de separacion\Matriz.h(41,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Seis grado de separacion\Seis grado de separacion\Matriz.h(41): message : al compilar la función del miembro clase plantilla "int Matriz<int>::numcols(void) const"
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Seis grado de separacion\Seis grado de separacion\Source.cpp(22): message : Vea la referencia a la creación de una instancia de la función plantilla "int Matriz<int>::numcols(void) const" que se está compilando
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Seis grado de separacion\Seis grado de separacion\Source.cpp(20): message : Vea la referencia a la creación de una instancia de clase plantilla "Matriz<int>" que se está compilando
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Seis grado de separacion\Seis grado de separacion\Matriz.h(40,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Seis grado de separacion\Seis grado de separacion\Matriz.h(40): message : al compilar la función del miembro clase plantilla "int Matriz<int>::numfils(void) const"
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Seis grado de separacion\Seis grado de separacion\Source.cpp(20): message : Vea la referencia a la creación de una instancia de la función plantilla "int Matriz<int>::numfils(void) const" que se está compilando
+  Seis grado de separacion.vcxproj -> C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Seis grado de separacion\x64\Debug\Seis grado de separacion.exe
