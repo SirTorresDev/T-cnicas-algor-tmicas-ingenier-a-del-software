@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Camino al Cole\Camino al Cole\Source.cpp(18,28): warning C4305: 'inicializando': truncamiento de '__int64' a 'int'
+C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Camino al Cole\Camino al Cole\Source.cpp(18,17): warning C4309: 'inicializando': truncamiento de valor constante
+  Camino al Cole.vcxproj -> C:\Archivos de Codigo\Workspace\TAIS\Ejercicios\Camino al Cole\Debug\Camino al Cole.exe
