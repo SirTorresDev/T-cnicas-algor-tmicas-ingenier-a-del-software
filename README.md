@@ -1,1 +1,1 @@
-# T-cnicas-algor-tmicas-ingenier-a-del-software
+# Tecnicas-algoritmicas-ingenieria-del-software
